@@ -1,0 +1,6 @@
+{
+  "name": "CipherForge - Cryptographic Password Generator",
+  "description": "Modern, cryptographically secure password generator powered by window.crypto with real-time entropy scoring, custom character sets, and history management.",
+  "requestFramePermissions": ["clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
